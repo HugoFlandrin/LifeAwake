@@ -46,7 +46,7 @@ This is a **student project** developed over the course of a school year by a te
 
 ### **Play the game**
 A build of Life Awake is available on itch.io:
-👉 [life-awake.itch.io](https://life-awake.itch.io/life-awake) <!-- TODO: replace with the real itch.io link -->
+👉 [life-awake.itch.io](https://hugoflandrin.itch.io/life-awake)
 
 ---
 
